@@ -20,7 +20,7 @@ jobs:
           main: main
           dist: ./dist
           python_version: 3.11
-          pyinstaller_version: 4.7
+          pyinstaller_version: 6.15.0
           artifact: SPMS
           use-dependencies: false
           no-console: false
